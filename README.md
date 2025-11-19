@@ -41,3 +41,7 @@ This workflow is triggered by an incoming message from a service like Twilio.
 ## Solving a Key Business Challenge
 
 This project solves a critical business challenge for a pest control company by replacing their manual, time-consuming lead intake process with an intelligent 24/7 AI receptionist. Previously, staff spent valuable time answering calls and emails, asking repetitive questions just to qualify a lead or provide a quote, and risked losing business after hours. This automated workflow instantly engages customers via WhatsApp or SMS, automatically qualifies them by gathering all necessary details, provides immediate price quotes, and seamlessly saves confirmed bookings directly into Airtable. This transforms their operation by eliminating manual data entry, capturing every potential lead, and freeing up the specialists to focus on delivering their pest control services rather than administrative tasks.
+
+## ✍️ Author
+
+* **Muneeb Ali Khan** - https://github.com/Muneeb20019  -   https://www.linkedin.com/in/muneeb-ali-khan-2a1675365
