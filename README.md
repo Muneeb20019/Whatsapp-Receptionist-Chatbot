@@ -15,9 +15,7 @@ An automated receptionist built with n8n that handles customer inquiries via Wha
 
 ## How It Works (Workflow Breakdown)
 
-[
-](https://github.com/Muneeb20019/Whatsapp-Receptionist-Chatbot/blob/main/AI-Powered%20WhatsApp%20Receptionist.png?raw=true)
-
+![AI-Powered WhatsApp Receptionist](AI-Powered%20WhatsApp%20Receptionist.png)
 This workflow is triggered by an incoming message from a service like Twilio.
 
 1.  **Trigger & Memory Retrieval:** A **Twilio Trigger** receives a new message. The workflow then retrieves the past conversation history for that customer from a Google Sheet.
